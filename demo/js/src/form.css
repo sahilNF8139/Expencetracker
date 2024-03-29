@@ -1,0 +1,17 @@
+.btn{
+  display: flex;
+  justify-content: center;
+  background-color: rgb(251, 144, 21);
+  border-radius: 5px solid blac;
+  
+}
+.er{
+  color: red;
+}
+.container{
+  display: flex;
+  justify-content: center;
+  /* background-color: rgb(21, 240, 251); */
+  border-radius: 5px solid black;
+ 
+}
